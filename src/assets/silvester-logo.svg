@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" fill="none" role="img" aria-label="Silvester Salon logo">
+  <rect width="1000" height="700" fill="#000"/>
+
+  <text
+    x="500"
+    y="250"
+    fill="#fff"
+    font-family="ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial"
+    font-size="64"
+    font-weight="600"
+    letter-spacing="0.65em"
+    text-anchor="middle"
+  >
+    SALON
+  </text>
+
+  <text
+    x="500"
+    y="390"
+    fill="#fff"
+    font-family="ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial"
+    font-size="140"
+    font-weight="900"
+    letter-spacing="0.04em"
+    text-anchor="middle"
+  >
+    SILVESTER
+  </text>
+
+  <text
+    x="500"
+    y="485"
+    fill="#ef4444"
+    font-family="ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial"
+    font-size="44"
+    font-weight="800"
+    letter-spacing="0.06em"
+    text-anchor="middle"
+  >
+    HAIR | BEAUTY | BRIDAL
+  </text>
+
+  <text
+    x="500"
+    y="545"
+    fill="#fff"
+    font-family="ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial"
+    font-size="44"
+    font-weight="800"
+    letter-spacing="0.1em"
+    text-anchor="middle"
+  >
+    UNISEX
+  </text>
+</svg>
